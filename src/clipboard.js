@@ -8,7 +8,7 @@
 		...
 		<button clipboard="${name}">COPY ME</button>
 **/
-import {inject, bindable} from 'aurelia-framework';
+import {inject} from 'aurelia-framework';
 
 // Create faux-textArea element
 const createFauxTextAreaElement = (text) => {
