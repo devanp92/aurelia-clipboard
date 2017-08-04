@@ -1,0 +1,25 @@
+{
+  "name": "aurelia-clipboard",
+  "version": "1.0.0",
+  "description": "aurelia custom attribute for using browser's clipboard api",
+  "main": "src/clipboard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devanp92/aurelia-clipboard.git"
+  },
+  "keywords": [
+    "aurelia",
+    "clipboard",
+    "javascript",
+    "custom-attribue"
+  ],
+  "author": "Devan Patel <devanppatel92@gmail.com> (devanpatel.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devanp92/aurelia-clipboard/issues"
+  },
+  "homepage": "https://github.com/devanp92/aurelia-clipboard#readme"
+}
