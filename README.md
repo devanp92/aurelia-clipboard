@@ -27,8 +27,8 @@ export function configure(aurelia) {
       .plugin('aurelia-clipboard');
 
     ...
-  }
-  ```
+}
+```
 
 ## License
 

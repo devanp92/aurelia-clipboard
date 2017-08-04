@@ -8,7 +8,7 @@
 		...
 		<button clipboard="${name}">COPY ME</button>
 **/
-import {inject} from 'aurelia-framework';
+import {inject, bindable} from 'aurelia-framework';
 
 // Create faux-textArea element
 const createFauxTextAreaElement = (text) => {
@@ -34,6 +34,8 @@ const createFauxTextAreaElement = (text) => {
 
 @inject(Element)
 export class ClipboardCustomAttribute {
+	@bindable text = '';
+
 	constructor(element) {
 		this.element = element;
 
