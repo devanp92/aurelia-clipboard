@@ -1,6 +1,6 @@
 {
   "name": "aurelia-clipboard",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "aurelia custom attribute for using browser's clipboard api",
   "main": "src/clipboard.ts",
   "scripts": {
