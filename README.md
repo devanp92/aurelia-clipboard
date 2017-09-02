@@ -7,7 +7,7 @@ This custom attribute uses ```document.execCommand``` which is [~86% supported a
 
 ## Installation
 
-To install, simply run `npm install aurelia-clipoard`.
+To install, simply run `npm install aurelia-clipboard`.
 
 ## Usage
 
